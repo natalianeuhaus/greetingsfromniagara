@@ -1,0 +1,3105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99170590291196,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 2200 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-001",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 1,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "14",
+        "gamma_surface_uR_h": "31",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98887836981378,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 2950 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-002",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 2,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "23",
+        "gamma_surface_uR_h": "86",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98510832568284,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 3950 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-003",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 3,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "16",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98461821994583,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 4080 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-004",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 4,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98378881023702,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 4300 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-005",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 5,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98160218464109,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 4880 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-006",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 6,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "63",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97822799514391,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 5775 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-007",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 7,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97564551491422,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 6460 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-008",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 8,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "16",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97408094659988,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 6875 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-009",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 9,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "15",
+        "gamma_surface_uR_h": "34",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97351543998025,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7025 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-010",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 10,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "13",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97308942499346,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7138 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-011",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 11,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97288584261038,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7192 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-012",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 12,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97243343731468,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7312 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-013",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 13,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "19",
+        "gamma_surface_uR_h": "51",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.972327876079,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7340 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-014",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 14,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97207528312224,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7407 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-015",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 15,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97190563113634,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7452 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-016",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 16,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97163041791478,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7525 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-017",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 17,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97134766460496,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7600 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-018",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 18,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97016010070372,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7915 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-019",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 19,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": "11",
+        "gamma_surface_uR_h": "71",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97011486017415,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7927 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-020",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 20,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9685465218157,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 8343 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-021",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 21,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96747205923837,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 8628 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-022",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 22,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "11\u201386",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9662204045869,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 8960 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-023",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road.",
+        "anomaly_number": 23,
+        "measurement_table": 2,
+        "measurement_report_page": 20,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "230",
+        "gamma_scan_range_uR_h": "11\u2013230",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94981245292168,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 746 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-024",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 24,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "33",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95140718158905,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 1169 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-025",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 25,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95189351728195,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 1298 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-026",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 26,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "31",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95260982566683,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 1488 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-027",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 27,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "46",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95579551295745,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2333 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-028",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 28,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95590861428138,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2363 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-029",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 29,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "33",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95653821165125,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2530 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "Large area",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-030",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 30,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": "19",
+        "gamma_surface_uR_h": "34",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95743548215441,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2768 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "Transcription from scan; verify against original",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-031",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 31,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "33",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95772200550836,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2844 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-032",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 32,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "33",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9702611722878,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 6170 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-033",
+        "accuracy_note": "Approximate point calculated westward from Howard Road.",
+        "anomaly_number": 33,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96315276927008,
+          43.2183
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "Old Pletcher Road, 490 ft east of KOA entrance",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-034",
+        "accuracy_note": "Approximate point calculated eastward from the former KOA entrance.",
+        "anomaly_number": 34,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "33",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96285118057949,
+          43.2183
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "Old Pletcher Road, 570 ft east of KOA entrance",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-035",
+        "accuracy_note": "Approximate point calculated eastward from the former KOA entrance.",
+        "anomaly_number": 35,
+        "measurement_table": 3,
+        "measurement_report_page": 21,
+        "gamma_1m_uR_h": "23",
+        "gamma_surface_uR_h": "77",
+        "gamma_scan_range_uR_h": "9\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00136785714285,
+          43.16603571428571
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "961 Ridge Road",
+        "anomaly": "Ra-226",
+        "property_description": "Driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-036",
+        "accuracy_note": "Approximate address interpolation along Ridge Road.",
+        "anomaly_number": 36,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "34",
+        "gamma_scan_range_uR_h": "14\u201334",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01345357142857,
+          43.16860714285714
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "House between 889 and 913 Ridge Road",
+        "anomaly": "Ra-226",
+        "property_description": "Driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-037",
+        "accuracy_note": "Approximate address interpolation along Ridge Road.",
+        "anomaly_number": 37,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "22",
+        "gamma_surface_uR_h": "34",
+        "gamma_scan_range_uR_h": "14\u201334",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98105714285714,
+          43.16171428571428
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "1084 Ridge Road",
+        "anomaly": "Ra-226",
+        "property_description": "Probably driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-038",
+        "accuracy_note": "Approximate address interpolation along Ridge Road.",
+        "anomaly_number": 38,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "14\u201349",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.997,
+          43.168
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "Circular gravel drive, south side of Ridge Road at TP45",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-039",
+        "accuracy_note": "Approximate route-level location.",
+        "anomaly_number": 39,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "40",
+        "gamma_scan_range_uR_h": "17\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00577,
+          43.16317
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "1011 Upper Mountain Road",
+        "anomaly": "Ra-226",
+        "property_description": "Driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Address-level coordinate reported by EPA; parcel geometry has not been added.",
+        "survey_id": "ORNL-040",
+        "accuracy_note": "EPA Superfund site-profile coordinate for Anomaly 40 at 1011 Upper Mountain Road.",
+        "anomaly_number": 40,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "17\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01884,
+          43.15604
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "783 Upper Mountain Road",
+        "anomaly": "Th-232",
+        "property_description": "Yard and driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-041",
+        "accuracy_note": "Approximate address placement interpolated immediately west of the EPA-reported 789 Upper Mountain Road coordinate.",
+        "anomaly_number": 41,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "17\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01842,
+          43.15618
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "789 Upper Mountain Road",
+        "anomaly": "Th-232",
+        "property_description": "Yard and driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Address-level coordinate reported by EPA; parcel geometry has not been added.",
+        "survey_id": "ORNL-042",
+        "accuracy_note": "EPA Superfund site-profile coordinate for 789 Upper Mountain Road.",
+        "anomaly_number": 42,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "43",
+        "gamma_surface_uR_h": "130",
+        "gamma_scan_range_uR_h": "29\u2013130",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.022,
+          43.155
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "738 Upper Mountain Road",
+        "anomaly": "Th-232",
+        "property_description": "Yard and driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Address-level coordinate reported by EPA; parcel geometry has not been added.",
+        "survey_id": "ORNL-043",
+        "accuracy_note": "EPA Superfund site-profile coordinate for 738 Upper Mountain Road.",
+        "anomaly_number": 43,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "200",
+        "gamma_surface_uR_h": "710",
+        "gamma_scan_range_uR_h": "17\u2013710",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99776,
+          43.19464
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4977 Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-044",
+        "accuracy_note": "Approximate address interpolation along Creek Road.",
+        "anomaly_number": 44,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": null,
+        "gamma_scan_range_uR_h": null,
+        "measurement_note": "Anomaly not found during the follow-up survey.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99762,
+          43.194680000000005
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4979 Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-045",
+        "accuracy_note": "Approximate address interpolation along Creek Road.",
+        "anomaly_number": 45,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "11",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "17\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0,
+          43.194
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4945 Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-046",
+        "accuracy_note": "Approximate address interpolation along Creek Road.",
+        "anomaly_number": 46,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "14",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "14\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.011,
+          43.168
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "Junction of Highways 18 and 104, northeast side",
+        "anomaly": "Ra-226",
+        "property_description": "Highway median",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-047",
+        "accuracy_note": "Approximate highway-junction location.",
+        "anomaly_number": 47,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "16",
+        "gamma_surface_uR_h": "77",
+        "gamma_scan_range_uR_h": "14\u201377",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99713,
+          43.19482
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4986 Creek Road and adjoining lot",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-048",
+        "accuracy_note": "Approximate address interpolation along Creek Road.",
+        "anomaly_number": 48,
+        "measurement_table": 4,
+        "measurement_report_page": 22,
+        "gamma_1m_uR_h": "16",
+        "gamma_surface_uR_h": "40",
+        "gamma_scan_range_uR_h": "17\u201340",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99,
+          43.113
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Across street from 5439 and 5447 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-049",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 49,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "16",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "13\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.987,
+          43.116
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Reservoir State Park, northwest corner of Military Road and Highway 31",
+        "anomaly": "Ra-226",
+        "property_description": "Park",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-050",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 50,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "24",
+        "gamma_surface_uR_h": "46",
+        "gamma_scan_range_uR_h": "14\u201360",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.985,
+          43.118
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Military Road about 400 ft north of Highway 31, both sides of creek",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lots",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-051",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 51,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "14\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.982,
+          43.104
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "2924 Military Road",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-052",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 52,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "34",
+        "gamma_surface_uR_h": "140",
+        "gamma_scan_range_uR_h": "34\u2013140",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.948,
+          43.103
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "6560 Niagara Falls Boulevard",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-053",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 53,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "26",
+        "gamma_surface_uR_h": "71",
+        "gamma_scan_range_uR_h": "17\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.973,
+          43.091
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Walter S. Kozdranski Co., Inc., 1865 3rd Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-054",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 54,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "49",
+        "gamma_surface_uR_h": "86",
+        "gamma_scan_range_uR_h": "17\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97,
+          43.094
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Nuts and Bolts Products, Inc., 2115 3rd Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-055",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 55,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "17\u201363",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.982,
+          43.087
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Save-Rite Discount Store, 4301 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-056",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 56,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "23",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "13\u201351",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98,
+          43.09
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Louie's Place, 4509 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-057",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 57,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "26",
+        "gamma_scan_range_uR_h": "17\u201357",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.978,
+          43.092
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "4611 and 4613 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-058",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 58,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "17\u201343",
+        "measurement_note": "1 m reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.976,
+          43.096
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Prince of Peace Church, Military Road; rectory at 908 N. Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-059",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 59,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "43",
+        "gamma_surface_uR_h": "77",
+        "gamma_scan_range_uR_h": "29\u201377",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.973,
+          43.101
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Metropolitan Life and National Fuel, 1329 N. Military Road",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-060",
+        "accuracy_note": "Approximate location based on the address and survey figure.",
+        "anomaly_number": 60,
+        "measurement_table": 5,
+        "measurement_report_page": 23,
+        "gamma_1m_uR_h": "20",
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "13\u201349",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94837636363637,
+          43.07530909090909
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "Kelly's Country Store, 3121 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-061",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard.",
+        "anomaly_number": 61,
+        "measurement_table": 6,
+        "measurement_report_page": 24,
+        "gamma_1m_uR_h": "21",
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": null,
+        "measurement_note": "Scan-range reading not taken.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96926363636364,
+          43.02309090909091
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "Mobil Service Station, 1685 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-062",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard.",
+        "anomaly_number": 62,
+        "measurement_table": 6,
+        "measurement_report_page": 24,
+        "gamma_1m_uR_h": "9",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "11\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94926363636364,
+          43.07309090909091
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "3060 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Probably parking lot",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-063",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard.",
+        "anomaly_number": 63,
+        "measurement_table": 6,
+        "measurement_report_page": 24,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "140",
+        "gamma_scan_range_uR_h": "29\u2013160",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94950909090909,
+          43.07275727272727
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "3050 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Probably parking lot",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-064",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard.",
+        "anomaly_number": 64,
+        "measurement_table": 6,
+        "measurement_report_page": 24,
+        "gamma_1m_uR_h": "34",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "11\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94930909090908,
+          43.07269727272727
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "3044 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Probably parking lot",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-065",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard.",
+        "anomaly_number": 65,
+        "measurement_table": 6,
+        "measurement_report_page": 24,
+        "gamma_1m_uR_h": "31",
+        "gamma_surface_uR_h": "51",
+        "gamma_scan_range_uR_h": "13\u201351",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95639090909091,
+          43.05527272727273
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "KOA Campground, 2570 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-066",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard.",
+        "anomaly_number": 66,
+        "measurement_table": 6,
+        "measurement_report_page": 24,
+        "gamma_1m_uR_h": "13",
+        "gamma_surface_uR_h": "17",
+        "gamma_scan_range_uR_h": "12\u201317",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06012916666666,
+          43.08495833333333
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Southeast corner of Cudaback and Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Commercial building",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-067",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 67,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "17\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06022708333333,
+          43.084854166666666
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Between 245 and 257 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-068",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 68,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": null,
+        "gamma_scan_range_uR_h": "57",
+        "measurement_note": "Property inaccessible; private property.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05875833333333,
+          43.086416666666665
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Niagara Falls High School, Pine Street and Portage Road",
+        "anomaly": "Th-232",
+        "property_description": "School",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-069",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 69,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "9",
+        "gamma_surface_uR_h": "23",
+        "gamma_scan_range_uR_h": "9\u201323",
+        "measurement_note": "Readings attributed to brick on the side of the school.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03921416666667,
+          43.10720833333333
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "1318-1324 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-070",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 70,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "9",
+        "gamma_surface_uR_h": "17",
+        "gamma_scan_range_uR_h": "9\u201317",
+        "measurement_note": "Readings attributed to a brick building on the side of the street.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05738749999999,
+          43.087875000000004
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Harris and Lever Florists, Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-071",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 71,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "29\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.053783,
+          43.091708
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "574 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-072",
+        "accuracy_note": "Approximate address interpolation along Portage Road using 574 Portage Road.",
+        "anomaly_number": 72,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "34",
+        "gamma_scan_range_uR_h": "17\u201334",
+        "measurement_note": "Reading taken in contact with granite steps in front of the building.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.055155,
+          43.09025
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Northwest corner Ferry Avenue and Portage Road, probably 504 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-073",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 73,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": null,
+        "gamma_scan_range_uR_h": "37",
+        "measurement_note": "Property inaccessible; private property.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05652583333332,
+          43.088791666666665
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Property between 434 Portage Road and 1338 Niagara Street",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-074",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 74,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "49",
+        "gamma_scan_range_uR_h": "29\u201349",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05781833333333,
+          43.08741666666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "368 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-075",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 75,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "51",
+        "gamma_scan_range_uR_h": "29\u201351",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05805333333333,
+          43.08716666666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "356 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-076",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 76,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "16",
+        "gamma_surface_uR_h": "37",
+        "gamma_scan_range_uR_h": "16\u201337",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06001166666667,
+          43.08508333333334
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "256 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-077",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 77,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "23",
+        "gamma_surface_uR_h": "51",
+        "gamma_scan_range_uR_h": "23\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06028583333332,
+          43.08479166666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Between 242 Portage Road and Payne's Floor Covering",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-078",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 78,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "91",
+        "gamma_scan_range_uR_h": "13\u201391",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06110833333332,
+          43.08391666666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "200 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-079",
+        "accuracy_note": "Approximate address interpolation along Portage Road.",
+        "anomaly_number": 79,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": null,
+        "gamma_scan_range_uR_h": null,
+        "measurement_note": "Anomaly not found during the follow-up survey.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96867928571429,
+          43.07586964285714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Opposite 5704 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-080",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 80,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "91",
+        "gamma_scan_range_uR_h": "29\u201391",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94751803571428,
+          43.07426651785714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "6901 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-081",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 81,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "17 / 16 / 16 / 86",
+        "gamma_surface_uR_h": "71 / 57 / 57 / 160",
+        "gamma_scan_range_uR_h": "17\u201371 / 11\u201357 / 11\u201357 / 18\u2013160",
+        "measurement_note": "Four separately measured regions at 6901 Buffalo Avenue.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.944,
+          43.074
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "7723 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-082",
+        "accuracy_note": "Approximate eastern Buffalo Avenue placement for 7723 Buffalo Avenue.",
+        "anomaly_number": 82,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": "57",
+        "gamma_surface_uR_h": "86",
+        "gamma_scan_range_uR_h": "29\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97207357142858,
+          43.07612678571429
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "5512 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-083",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 83,
+        "measurement_table": 7,
+        "measurement_report_page": 25,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": null,
+        "gamma_scan_range_uR_h": "57",
+        "measurement_note": "Property inaccessible; private property.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.043,
+          43.0815
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue, 230 ft west of 53rd Street",
+        "anomaly": "Ra-226",
+        "property_description": "Grass area and sidewalk",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-084",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 84,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "19",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "19\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98218571428572,
+          43.07689285714285
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Occidental Chemical Corp., Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-085",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 85,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "19",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "17\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97900357142858,
+          43.07665178571428
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Opposite ALOX Corp., Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-086",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 86,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "86",
+        "gamma_scan_range_uR_h": "17\u201386",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97582142857144,
+          43.076410714285714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue, east side of Hyde Park intersection",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-087",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 87,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "17",
+        "gamma_surface_uR_h": "71",
+        "gamma_scan_range_uR_h": "14\u201371",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9726392857143,
+          43.07616964285714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue opposite SOHIO",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "Facility name difficult to read; verify against original",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-088",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 88,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "10",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "10\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03557500000001,
+          43.0809375
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "1920 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-089",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 89,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "110",
+        "gamma_scan_range_uR_h": "110",
+        "measurement_note": "1 m reading unavailable; property inaccessible.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96627500000001,
+          43.0756875
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue opposite Carborundum Corp.",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-090",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue.",
+        "anomaly_number": 90,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "86",
+        "gamma_surface_uR_h": "110",
+        "gamma_scan_range_uR_h": "29\u2013110",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.019,
+          43.0968
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2434 Willow Avenue",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-091",
+        "accuracy_note": "Approximate address location on Willow Avenue.",
+        "anomaly_number": 91,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "31",
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "14\u201357",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01875000000001,
+          43.0968
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2430 Willow Avenue",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-092",
+        "accuracy_note": "Approximate address location on Willow Avenue.",
+        "anomaly_number": 92,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "11",
+        "gamma_surface_uR_h": "29",
+        "gamma_scan_range_uR_h": "14\u201329",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04142181818182,
+          43.11693181818182
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "3017 Lewiston Road and property on south side",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-093",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road.",
+        "anomaly_number": 93,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "57",
+        "gamma_scan_range_uR_h": "57",
+        "measurement_note": "1 m reading unavailable.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0282290909091,
+          43.15815909090909
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "4831 Lewiston Road",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-094",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road.",
+        "anomaly_number": 94,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "86",
+        "gamma_scan_range_uR_h": "86",
+        "measurement_note": "1 m reading unavailable.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0281490909091,
+          43.15840909090909
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "4842 Lewiston Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-095",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road.",
+        "anomaly_number": 95,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "43",
+        "measurement_note": "1 m reading unavailable.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.027,
+          43.162
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Intersection of Rankine Road and Lewiston Road, west side",
+        "anomaly": "Ra-226",
+        "property_description": "Street",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-096",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road.",
+        "anomaly_number": 96,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "14",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "14\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.027,
+          43.162
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Intersection of McKinley and Lewiston Road, west side",
+        "anomaly": "Ra-226",
+        "property_description": "Street",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-097",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road.",
+        "anomaly_number": 97,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "14",
+        "gamma_surface_uR_h": "43",
+        "gamma_scan_range_uR_h": "14\u201343",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00165,
+          43.1115
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2919 Porter Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-098",
+        "accuracy_note": "Approximate address location on Porter Road.",
+        "anomaly_number": 98,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": "34",
+        "gamma_scan_range_uR_h": "34",
+        "measurement_note": "1 m reading unavailable.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.002,
+          43.1115
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2923 Porter Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-099",
+        "accuracy_note": "Approximate address location on Porter Road.",
+        "anomaly_number": 99,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": null,
+        "gamma_surface_uR_h": null,
+        "gamma_scan_range_uR_h": null,
+        "measurement_note": "Property inaccessible; private property.",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0215,
+          43.1015
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Corner of Pine Street and 29th Street, Wilson Farms Store",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "ORNL-100",
+        "accuracy_note": "Approximate intersection location.",
+        "anomaly_number": 100,
+        "measurement_table": 7,
+        "measurement_report_page": 26,
+        "gamma_1m_uR_h": "29",
+        "gamma_surface_uR_h": "51",
+        "gamma_scan_range_uR_h": "11\u201351",
+        "measurement_note": "",
+        "measurement_source": "ORNL/TM-10076, published November 1986",
+        "measurement_context": "Follow-up field measurements taken July 15\u201317, 1985; gross readings, background not subtracted."
+      }
+    }
+  ]
+}

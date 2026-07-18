@@ -1,0 +1,2183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99170590291196,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 2200 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-001",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98887836981378,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 2950 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-002",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98510832568284,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 3950 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-003",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98461821994583,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 4080 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-004",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98378881023702,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 4300 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-005",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98160218464109,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 4880 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-006",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97822799514391,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 5775 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-007",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97564551491422,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 6460 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-008",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97408094659988,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 6875 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-009",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97351543998025,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7025 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-010",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97308942499346,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7138 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-011",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97288584261038,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7192 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-012",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97243343731468,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7312 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-013",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.972327876079,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7340 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-014",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97207528312224,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7407 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-015",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97190563113634,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7452 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-016",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97163041791478,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7525 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-017",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97134766460496,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7600 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-018",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97016010070372,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7915 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-019",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97011486017415,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 7927 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-020",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9685465218157,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 8343 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-021",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96747205923837,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 8628 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-022",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9662204045869,
+          43.2202
+        ]
+      },
+      "properties": {
+        "table": 1,
+        "region": "Pletcher Road / LOOW",
+        "location": "South side of Pletcher Road, 8960 ft east from Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 14,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-023",
+        "accuracy_note": "Approximate point calculated along Pletcher Road from Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94981245292168,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 746 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-024",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95140718158905,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 1169 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-025",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95189351728195,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 1298 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-026",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95260982566683,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 1488 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-027",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95579551295745,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2333 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-028",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95590861428138,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2363 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-029",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95653821165125,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2530 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "Large area",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-030",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95743548215441,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2768 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "Transcription from scan; verify against original",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-031",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95772200550836,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 2844 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-032",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9702611722878,
+          43.2224
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "North side of Pletcher Road, 6170 ft west from Howard Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-033",
+        "accuracy_note": "Approximate point calculated westward from Howard Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96315276927008,
+          43.2183
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "Old Pletcher Road, 490 ft east of KOA entrance",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-034",
+        "accuracy_note": "Approximate point calculated eastward from the former KOA entrance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96285118057949,
+          43.2183
+        ]
+      },
+      "properties": {
+        "table": 2,
+        "region": "Pletcher Road / LOOW",
+        "location": "Old Pletcher Road, 570 ft east of KOA entrance",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 15,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-035",
+        "accuracy_note": "Approximate point calculated eastward from the former KOA entrance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00136785714285,
+          43.16603571428571
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "961 Ridge Road",
+        "anomaly": "Ra-226",
+        "property_description": "Driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-036",
+        "accuracy_note": "Approximate address interpolation along Ridge Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01345357142857,
+          43.16860714285714
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "House between 889 and 913 Ridge Road",
+        "anomaly": "Ra-226",
+        "property_description": "Driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-037",
+        "accuracy_note": "Approximate address interpolation along Ridge Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98105714285714,
+          43.16171428571428
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "1082 Ridge Road",
+        "anomaly": "Ra-226",
+        "property_description": "Probably driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-038",
+        "accuracy_note": "Approximate address interpolation along Ridge Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.997,
+          43.168
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "Circular gravel drive, south side of Ridge Road at TP45",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-039",
+        "accuracy_note": "Approximate route-level location."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00577,
+          43.16317
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "1011 Upper Mountain Road",
+        "anomaly": "Ra-226",
+        "property_description": "Driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Address-level coordinate reported by EPA; parcel geometry has not been added.",
+        "survey_id": "S85-040",
+        "accuracy_note": "EPA Superfund site-profile coordinate for Anomaly 40 at 1011 Upper Mountain Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01884,
+          43.15604
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "783 Upper Mountain Road",
+        "anomaly": "Th-232",
+        "property_description": "Yard and driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-041",
+        "accuracy_note": "Approximate address placement interpolated immediately west of the EPA-reported 789 Upper Mountain Road coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01842,
+          43.15618
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "789 Upper Mountain Road",
+        "anomaly": "Th-232",
+        "property_description": "Yard and driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Address-level coordinate reported by EPA; parcel geometry has not been added.",
+        "survey_id": "S85-042",
+        "accuracy_note": "EPA Superfund site-profile coordinate for 789 Upper Mountain Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.022,
+          43.155
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "738 Upper Mountain Road",
+        "anomaly": "Th-232",
+        "property_description": "Yard and driveway",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Address-level coordinate reported by EPA; parcel geometry has not been added.",
+        "survey_id": "S85-043",
+        "accuracy_note": "EPA Superfund site-profile coordinate for 738 Upper Mountain Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99776,
+          43.19464
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4977 Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-044",
+        "accuracy_note": "Approximate address interpolation along Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99762,
+          43.194680000000005
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4979 Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-045",
+        "accuracy_note": "Approximate address interpolation along Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0,
+          43.194
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4945 Creek Road",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-046",
+        "accuracy_note": "Approximate address interpolation along Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.011,
+          43.168
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "Junction of Highways 18 and 104, northeast side",
+        "anomaly": "Ra-226",
+        "property_description": "Highway median",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-047",
+        "accuracy_note": "Approximate highway-junction location."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99713,
+          43.19482
+        ]
+      },
+      "properties": {
+        "table": 3,
+        "region": "Lewiston",
+        "location": "4986 Creek Road and adjoining lot",
+        "anomaly": "Ra-226",
+        "property_description": "Yard",
+        "note": "",
+        "report_page": 16,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-048",
+        "accuracy_note": "Approximate address interpolation along Creek Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99,
+          43.113
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Across street from 5439 and 5447 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Open field",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-049",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.987,
+          43.116
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Reservoir State Park, northwest corner of Military Road and Highway 31",
+        "anomaly": "Ra-226",
+        "property_description": "Park",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-050",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.985,
+          43.118
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Military Road about 400 ft north of Highway 31, both sides of creek",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lots",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-051",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.982,
+          43.104
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "2924 Military Road",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-052",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.948,
+          43.103
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "6560 Niagara Falls Boulevard",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-053",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.973,
+          43.091
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Walter S. Kozdranski Co., Inc., 1865 3rd Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-054",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97,
+          43.094
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Nuts and Bolts Products, Inc., 2115 3rd Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-055",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.982,
+          43.087
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Save-Rite Discount Store, 4301 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-056",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98,
+          43.09
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Looie's Place, 4509 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-057",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.978,
+          43.092
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "4611 and 4613 Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-058",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.976,
+          43.096
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Prince of Peace Church, Military Road; rectory at 908 N. Military Road",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-059",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.973,
+          43.101
+        ]
+      },
+      "properties": {
+        "table": 4,
+        "region": "Northeast of Niagara Falls",
+        "location": "Metropolitan Life and National Fuel, 1329 N. Military Road",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 17,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-060",
+        "accuracy_note": "Approximate location based on the address and survey figure."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94837636363637,
+          43.07530909090909
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "Kelly's Country Store, 3121 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-061",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96926363636364,
+          43.02309090909091
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "Mobil Service Station, 1685 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-062",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94926363636364,
+          43.07309090909091
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "3060 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Probably parking lot",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-063",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94940909090909,
+          43.07272727272727
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "3050 and 3044 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Probably parking lot",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-064",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95639090909091,
+          43.05527272727273
+        ]
+      },
+      "properties": {
+        "table": 5,
+        "region": "Grand Island / Tonawanda",
+        "location": "KOA Campground, 2570 Grand Island Boulevard",
+        "anomaly": "Th-232",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 18,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-065",
+        "accuracy_note": "Approximate address interpolation along Grand Island Boulevard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06012916666666,
+          43.08495833333333
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Southeast corner of Cudaback and Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Commercial building",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-066",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06022708333333,
+          43.084854166666666
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Between 245 and 251 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-067",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05875833333333,
+          43.086416666666665
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Niagara Falls High School, Pine Street and Portage Road",
+        "anomaly": "Th-232",
+        "property_description": "School",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-068",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03921416666667,
+          43.10720833333333
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "1318-1324 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-069",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05738749999999,
+          43.087875000000004
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Harris and Lever Florists, Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-070",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05495916666666,
+          43.09045833333333
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "514 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-071",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.055155,
+          43.09025
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Northwest corner Ferry Avenue and Portage Road, probably 504 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-072",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05652583333332,
+          43.088791666666665
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Property between 434 Portage Road and 1338 Niagara Street",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-073",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05781833333333,
+          43.08741666666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "368 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-074",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05805333333333,
+          43.08716666666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "356 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-075",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06001166666667,
+          43.08508333333334
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "256 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-076",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06028583333332,
+          43.08479166666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Between 242 Portage Road and Payne's Floor Covering",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-077",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06110833333332,
+          43.08391666666667
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "200 Portage Road",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-078",
+        "accuracy_note": "Approximate address interpolation along Portage Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96867928571429,
+          43.07586964285714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Opposite 5704 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-079",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94751803571428,
+          43.07426651785714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "6901 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-080",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03905767857144,
+          43.08120133928571
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "1723 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-081",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97207357142858,
+          43.07612678571429
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "5512 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-082",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.043,
+          43.0815
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue, 230 ft west of 53rd Street",
+        "anomaly": "Ra-226",
+        "property_description": "Grass area and sidewalk",
+        "note": "",
+        "report_page": 19,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-083",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98218571428572,
+          43.07689285714285
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Occidental Chemical Corp., Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-084",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97900357142858,
+          43.07665178571428
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Opposite ALOX Corp., Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-085",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97582142857144,
+          43.076410714285714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue, east side of Hyde Park intersection",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-086",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9726392857143,
+          43.07616964285714
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue opposite SEMO",
+        "anomaly": "Ra-226",
+        "property_description": "Parking lot",
+        "note": "Facility name difficult to read; verify against original",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-087",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03557500000001,
+          43.0809375
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "1920 Buffalo Avenue",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-088",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96627500000001,
+          43.0756875
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Buffalo Avenue opposite Carborundum Corp.",
+        "anomaly": "Ra-226",
+        "property_description": "Vacant lot",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-089",
+        "accuracy_note": "Approximate address interpolation along Buffalo Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.019,
+          43.0968
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2434 Willow Avenue",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-090",
+        "accuracy_note": "Approximate address location on Willow Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01875000000001,
+          43.0968
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2430 Willow Avenue",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-091",
+        "accuracy_note": "Approximate address location on Willow Avenue."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04142181818182,
+          43.11693181818182
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "3017 Lewiston Road and property on south side",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-092",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0282290909091,
+          43.15815909090909
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "4831 Lewiston Road",
+        "anomaly": "Th-232",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-093",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0281490909091,
+          43.15840909090909
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "4842 Lewiston Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-094",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.027,
+          43.162
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Intersection of Rankine Road and Lewiston Road, west side",
+        "anomaly": "Ra-226",
+        "property_description": "Street",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-095",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.027,
+          43.162
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Intersection of McKinley and Lewiston Road, west side",
+        "anomaly": "Ra-226",
+        "property_description": "Street",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-096",
+        "accuracy_note": "Approximate address interpolation along Lewiston Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00165,
+          43.1115
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2919 Porter Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-097",
+        "accuracy_note": "Approximate address location on Porter Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.002,
+          43.1115
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "2923 Porter Road",
+        "anomaly": "Ra-226",
+        "property_description": "Residence",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-098",
+        "accuracy_note": "Approximate address location on Porter Road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0215,
+          43.1015
+        ]
+      },
+      "properties": {
+        "table": 6,
+        "region": "Niagara Falls",
+        "location": "Corner of Pine Street and 29th Street, Wilson Farms Store",
+        "anomaly": "Ra-226",
+        "property_description": "Business",
+        "note": "",
+        "report_page": 20,
+        "coordinate_status": "Approximate working coordinate; verify before parcel-level publication.",
+        "survey_id": "S85-099",
+        "accuracy_note": "Approximate intersection location."
+      }
+    }
+  ]
+}
