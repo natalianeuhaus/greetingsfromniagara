@@ -7,6 +7,6 @@ Visible-site group correction:
 - Preserved the Covanta survey findings as orange triangles.
 - Updated the orange map-symbol legend to:
   “Former Electromet site — now Covanta — TENORM gamma-survey clusters.”
-- Kept the blue Union Carbide / Electromet 1980 survey symbol and findings. 
+- Kept the blue Union Carbide / Electromet 1980 survey symbol and findings.  
 
 All other v0.34 data and layers remain unchanged.
